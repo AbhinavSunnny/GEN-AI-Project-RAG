@@ -1,0 +1,10 @@
+pipeline,precision,recall,MRR
+Dense GPT4o,0.0,0.0,0
+Hybrid GPT4o,0.0,0.0,0
+Fusion GPT4o,0.0,0.0,0
+Dense Llama3,0.0,0.0,0
+Hybrid Llama3,0.0,0.0,0
+Fusion Llama3,0.0,0.0,0
+Dense Mistral,0.0,0.0,0
+Hybrid Mistral,0.0,0.0,0
+Fusion Mistral,0.0,0.0,0

@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+.DS_Store
+
+*.pkl
+*.faiss
+
+notebooks/cnn_processed20k.csv
